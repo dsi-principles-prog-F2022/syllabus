@@ -1,40 +1,43 @@
 # DS-5220 Principles of Programming Course Outline
 
+> PS: all scheduling TBD info with a '>' sign
+
 Course page for DSI Principles of Programming course
 
 ## Class Meeting Times
 
-### In-person Only (Email yilin.ye@vanderbilt.edu for permission if cannot make it to the class)
-T Th 1:10-2:25pm CDT 
+> ### In-person Only (Email _______@vanderbilt.edu for permission if cannot make it to the class)
+Tuesday & Thursday 3:15pm - 4:30pm CDT 
 
 Sony Building 2001-A
 
 ### Zoom Meeting (Just for a record)
-Meeting ID: 936 3722 6665
-Passcode: 179776
-Zoom Meeting: https://vanderbilt.zoom.us/j/93637226665?pwd=V0ZyMVZzT1B0U0taQmVwY0NpNXdLQT09
+> Meeting ID: 
+> Passcode:
+> Zoom Meeting:
 
-### COVID Policy
-No one with symptoms that could be due to COVID-19 is to come to class. They should get tested at Student Health and self-isolate while awaiting results.
+> ### COVID Policy
+> No one with symptoms that could be due to COVID-19 is to come to class. They should get tested at Student Health and self-isolate while awaiting results.
  
-If a student must miss class for a few days due to quarantine, they should be treated as any other student who misses class due to a medical condition (sickness, broken bone, etc.). The student can work with the lecture team and/or their classmates to get the material they missed.
+> If a student must miss class for a few days due to quarantine, they should be treated as any other student who misses class due to a medical condition (sickness, broken bone, etc.). The student can work with the lecture team and/or their classmates to get the material they missed.
 
 ### Office hour 
 
-Office hours: (Wed: 3pm-4pm)
+Office hours: Tuesday & Thursday 4:30pm - 5:30pm CDT 
 
-I will have one more office hour the day before homework due.
+> I will have one more office hour the day before homework due.
 
-https://vanderbilt.zoom.us/j/92897450397?pwd=bHFoL201TmMzY041MmtMTGxKRUozdz09
+> Zoom Meeting:
 
-### Midterm Distribution 
+> ### Midterm Distribution 
 
-https://classroom.github.com/a/71Jd1nfA
+> Midterm classroom link: 
 
-### Midterm Deadline 
+> ### Midterm Deadline
 
-Issues completed: 10/20/2021 by 11:59 pm.
-Pull request created: 10/24/2021 by 11:59 pm.
+> Issues completed: _Date by Time_.
+
+> Pull request created: _Date by Time_.
 
 ## Books/References (all are available online)
 
@@ -66,7 +69,7 @@ Note: You will have the opportunity to drop one homework/short assignment. To re
 
 ## Class Slack
 
-Class Slack: https://vandydatasciencems.slack.com/messages/ds5220_f20
+> Class Slack:
 
 ### Instructor
 
@@ -86,25 +89,42 @@ Email: jesse.spencer-smith@vanderbilt.edu
 
 ### TA's
 
-**Yilin Ye, M.S. DSI Student, R Programming Teaching Specialist**
+> **Yue Guo, DSI MS Student, **
 
-Office hours: (Wed: 3pm-4pm)
+Office hours: (Tuesday: 4:30pm - 5:30pm CDT)
 
-Contact via slack or email yilin.ye@vanderbilt.edu
+Contact via slack or email: yue.guo@vanderbilt.edu
 
-**Weiqing Huang, M.S. DSI Stident, Python Programming Teaching Specialist** 
+> **Yiwen (Alvin) Chen, DSI MS Student, ** 
 
-Office hours: (Weiqing to Update)
+Office hours: (Thursday: 4:30pm - 5:30pm CDT)
 
-Contact via slack or email weiqing.huang@vanderbilt.edu
+Contact via slack or email: yiwen.chen@vanderbilt.edu
 
-**Sarah Torrence, DSI Student, Project Track Teaching Specialist** 
+**Dara Sliwinski, DSI MS Student, Project Track Teaching Specialist** 
 
-Office hours: (Mon: 10:30am-11am)
+> Office hours: ()
 
-Zoom link for Sarah's office hours: https://vanderbilt.zoom.us/j/94403925505?pwd=LytpSWJZZFJpRGJwcDlwTHhIckNndz09&from=addon 
+> Zoom link for Dara's office hours: 
 
-Contact via slack or email sarah.k.torrence@Vanderbilt.Edu
+Contact via slack or email: dara.e.sliwinski@Vanderbilt.edu
+
+> **Minghao (Harry) Zhao, DSI MS Student, ** 
+
+> Office hours: ()
+
+> Zoom link for Harry's office hours: 
+
+Contact via slack or email: minghao.zhao@vanderbilt.edu
+
+> **Xueyuan (Rio) Jia, DSI MS Student, ** 
+
+> Office hours: ()
+
+> Zoom link for Rio's office hours: 
+
+> Contact via slack or email: xueyuan.jia@vanderbilt.edu
+
 
 ## Course Outline
 
@@ -120,9 +140,9 @@ Understanding GH Flow, https://githubflow.github.io/
 
 Happy Git with R, git commands: https://happygitwithr.com/git-commands.html
 
-Recording: https://vanderbilt.zoom.us/rec/share/y8lxMbuvyG1JaJHruVvWBrEiLtjbaaa8hnAX_KYIzEuJ-zI1pj3bUUdsyKMyhRJ5?startTime=1598639548000
+> Recording: 
 
-Assignment: https://classroom.github.com/g/DCHjeGL5
+> Assignment: 
 
 ### Second week (R Module 2: tidyverse_intro/grammar/tidy data/pipeline test_1)
 
@@ -225,9 +245,9 @@ https://www.dropbox.com/s/z3fdk471p14998g/Lecture_9_2_Thurs.pptx?dl=0
 - [Built-in data structures](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/06-Built-in-Data-Structures.ipynb)
 - [Flow statements](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/07-Control-Flow-Statements.ipynb)
 
-Assignment 7: https://classroom.github.com/a/JRqdbsDI
+> Assignment 7: 
 
-Assignment 7 keys: https://github.com/dsi-principles-prog-F2021/assignment-7/blob/main/Assignment-7-keys.ipynb
+> Assignment 7 keys: 
 
 ### Tenth week (Python Module 3)
 Slides from Tuesday:
@@ -243,9 +263,9 @@ https://www.dropbox.com/s/mnwvs1voqjfro4t/Lecture_10_2_Thurs.pptx?dl=0
 - Indexing: [boolean indexing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.06-Boolean-Arrays-and-Masks.ipynb), [array slicing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.07-Fancy-Indexing.ipynb)
 - Intro to Pandas: [motivation](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.09-Structured-Data-NumPy.ipynb) and [overview](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
 
-Assignment 8: https://classroom.github.com/a/rHvK_XA2
+> Assignment 8: 
 
-Assignment 8 keys: https://github.com/dsi-principles-prog-F2021/assignment-8/blob/main/Assignment-8-Keys.ipynb
+> Assignment 8 keys: 
 
 ### Eleventh week (Python Module 4)
 Slides from Tuesday:
@@ -258,9 +278,9 @@ https://www.dropbox.com/s/414982e8p2yja8p/Lecture_11_2_Thurs.pptx?dl=0
 - [Functions](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/08-Defining-Functions.ipynb)
 - [Iterators](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/10-Iterators.ipynb)
 - 
-Assignment 9: https://classroom.github.com/a/3j3c5vjs
+> Assignment 9: 
 
-Assignment 9 keys: https://github.com/dsi-principles-prog-F2021/assignment-9/blob/main/Assignment-9-keys.ipynb
+> Assignment 9 keys: 
 
 ### Twelfth week (Python Module 5)
 Slides from Tuesday:
@@ -278,11 +298,11 @@ https://www.dropbox.com/s/x9goy3huxeotdgy/Lecture_12_2_Thurs.pptx?dl=0
 - [Concatenating](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.06-Concat-And-Append.ipynb)
 - [Grouping](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.08-Aggregation-and-Grouping.ipynb)
 
-Assignment 10: https://classroom.github.com/a/yrgcSrGy
+> Assignment 10: 
 
-Team assignment: https://docs.google.com/spreadsheets/d/1OmHvyWWdpSabJOoLh94gpTvlP7iGT7VaZjsWwkP5m-Y/edit?usp=sharing
+Team assignment: 
 
-Assignment 10 keys: https://github.com/dsi-principles-prog-F2021/assignment-10
+> Assignment 10 keys: 
 ### Thirteenth week (Python Module 6)
 Slides from Tuesday:
 https://www.dropbox.com/s/daun4dqh8g2qt99/Lecture_13_1_Tues.pptx?dl=0
@@ -293,9 +313,9 @@ https://www.dropbox.com/s/rah8io48g8ot0mp/Lecture_13_2_Thurs.pptx?dl=0
 - [Hierarchical indexing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.05-Hierarchical-Indexing.ipynb)
 - [Pivoting](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.09-Pivot-Tables.ipynb)
 
-Assignment 11: https://classroom.github.com/a/m2QEAXZn 
+> Assignment 11: 
 
-Assignment 11 keys: https://github.com/dsi-principles-prog-F2021/assignment-11/blob/main/Assignment-11-keys.ipynb
+> Assignment 11 keys: 
 
 ### Fourteenth week (Python Module 7/Final project)
 - Object-oriented Python
