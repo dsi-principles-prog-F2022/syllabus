@@ -105,23 +105,17 @@ Contact via slack or email: yiwen.chen@vanderbilt.edu
 
 > Office hours: ()
 
-> Zoom link for Dara's office hours: 
-
 Contact via slack or email: dara.e.sliwinski@Vanderbilt.edu
 
 > **Minghao (Harry) Zhao, DSI MS Student, ** 
 
-> Office hours: ()
-
-> Zoom link for Harry's office hours: 
+Office hours: (Thursday: 4:30pm - 5:30pm CDT)
 
 Contact via slack or email: minghao.zhao@vanderbilt.edu
 
 > **Xueyuan (Rio) Jia, DSI MS Student, ** 
 
-> Office hours: ()
-
-> Zoom link for Rio's office hours: 
+Office hours: (Tuesday: 4:30pm - 5:30pm CDT)
 
 > Contact via slack or email: xueyuan.jia@vanderbilt.edu
 
