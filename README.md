@@ -89,13 +89,13 @@ Email: jesse.spencer-smith@vanderbilt.edu
 
 ### TA's
 
-**Yue Guo, DSI MS Student, **
+**Yue Guo, DSI MS Student,**
 
 Office hours: (Tuesday: 4:30pm - 5:30pm CDT)
 
 Contact via slack or email: yue.guo@vanderbilt.edu
 
-**Yiwen (Alvin) Chen, DSI MS Student, ** 
+**Yiwen (Alvin) Chen, DSI MS Student,** 
 
 Office hours: (Thursday: 4:30pm - 5:30pm CDT)
 
@@ -107,13 +107,13 @@ Contact via slack or email: yiwen.chen@vanderbilt.edu
 
 Contact via slack or email: dara.e.sliwinski@Vanderbilt.edu
 
-**Minghao (Harry) Zhao, DSI MS Student, ** 
+**Minghao (Harry) Zhao, DSI MS Student,** 
 
 Office hours: (Thursday: 4:30pm - 5:30pm CDT)
 
 Contact via slack or email: minghao.zhao@vanderbilt.edu
 
-**Xueyuan (Rio) Jia, DSI MS Student, ** 
+**Xueyuan (Rio) Jia, DSI MS Student,** 
 
 Office hours: (Tuesday: 4:30pm - 5:30pm CDT)
 
