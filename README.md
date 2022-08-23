@@ -101,7 +101,7 @@ Office hours: (Thursday: 4:30pm - 5:30pm CDT)
 
 Contact via slack or email: yiwen.chen@vanderbilt.edu
 
-**Dara Sliwinski, DSI MS Student, Project Track Teaching Specialist** 
+> **Dara Sliwinski, DSI MS Student, Project Track Teaching Specialist** 
 
 > Office hours: ()
 
@@ -117,7 +117,7 @@ Contact via slack or email: minghao.zhao@vanderbilt.edu
 
 Office hours: (Tuesday: 4:30pm - 5:30pm CDT)
 
-> Contact via slack or email: xueyuan.jia@vanderbilt.edu
+Contact via slack or email: xueyuan.jia@vanderbilt.edu
 
 
 ## Course Outline
