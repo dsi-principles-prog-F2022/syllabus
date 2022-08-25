@@ -23,29 +23,19 @@ e-mail: zhongyue.yang@vanderbilt.edu
 
 _**Course TAs:**_ 
 
-**Yiwen (Alvin) Chen**
+**Yiwen (Alvin) Chen**, e-mail: yiwen.chen@Vanderbilt.Edu
 
-e-mail: yiwen.chen@Vanderbilt.Edu
-
-**Yue Guo**
-
-e-mail: yue.guo@Vanderbilt.Edu
+**Yue Guo**, e-mail: yue.guo@Vanderbilt.Edu
 
 _**Extra Homework TA:**_ 
 
-**Minghao (Harry) Zhao**
+**Minghao (Harry) Zhao**, e-mail: minghao.zhao@Vanderbilt.Edu
 
-e-mail: minghao.zhao@Vanderbilt.Edu
-
-**Xueyuan (Rio) Jia** 
-
-e-mail: xueyuan.jia@vanderbilt.edu
+**Xueyuan (Rio) Jia**, e-mail: xueyuan.jia@vanderbilt.edu
 
 _**Project TA:**_ 
 
-**Dara Sliwinski**
-
-e-mail: dara.e.sliwinski@Vanderbilt.Edu
+**Dara Sliwinski**, e-mail: dara.e.sliwinski@Vanderbilt.Edu
 
 ## Class (location: Sony Building 2001-A):
 
@@ -97,11 +87,11 @@ _Note: no late submissions will be accepted. No make-up homework will be given. 
 
 **Course Homework & Midterm & Final:**
 
-[Frame_1]
+[TODO]
 
 **Extra Homework:**
 
-[Frame_2]
+[TODO]
 
 **Note on the Honour Code:**
 - All exams and homework assignments are on the Vanderbilt Honour System. You are permitted and encouraged to work in groups to work out the answers to the suggested problems; this is not a violation of the Honour Code. But, graded homework problems and exams should be answered without any outside help. A full description of the Honour Code is provided in the Vanderbilt University Student Handbook.
