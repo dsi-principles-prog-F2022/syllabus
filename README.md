@@ -87,11 +87,48 @@ _Note: no late submissions will be accepted. No make-up homework will be given. 
 
 **Course Homework & Midterm & Final:**
 
-[TODO]
+|Week|Date|Distribute|Due|
+|:---:|:---:|:---:|:---:|
+|Week-0.5|08/24-08/27|HW_0 (Thur. 08/25)|HW_0 (Sun. 08/28)|
+|Week-1|    08/28-09/03|HW_1 (Thur. 09/01)|-|
+|Week-2|	09/04-09/10|	HW_2 (Thur. 09/08)|	HW_1 (Wed. 09/07)|
+|Week-3|	09/11-09/17|	HW_3 (Thur. 09/15)|	HW_2 (Wed. 09/14)|
+|Week-4|	09/18-09/24|	HW_4 (Thur. 09/22)|	HW_3 (Wed. 09/21)|
+|Week-5|	09/25-10/01|	HW_5 (Thur. 09/29)|	HW_4 (Wed. 09/28)|
+|Week-6|	10/02-10/08|	HW_6 (Thur. 10/06) - Midterm (Thur. 10/06)|	HW_5 (Wed. 10/05)|
+|Week-7|	10/09-10/15	|-|	HW_6 (Wed. 10/12) - Midterm_Part_1 (Wed. 10/12)|
+|Week-8|	10/16-10/22|	-|	Midterm_Part_2 (Wed. 10/19)|
+|Week-9|	10/23-10/29|	HW_7 (Thur. 10/27)|	-|
+|Week-10|	10/30-11/05|	HW_8 (Thur. 11/03)|	-|
+|Week-11|	11/06-11/12|	HW_9 (Thur. 11/03)|	HW_7 (Wed. 11/09)|
+|Week-12|	11/13-11/19|	HW_10 (Thur. 11/17)|	HW_8 (Wed. 11/16)|
+|Week-13|	11/20-11/26|	HW_11 (Thur. 11/24)|	HW_9 (Wed. 11/23)|
+|Week-14|	11/27-12/03|	Final (Fri. 12/02)|	HW_10 (Wed. 11/30)|
+|Week-15|	12/04-12/10|	-|	HW_11 (Wed. 12/07)|
+|Week-16|	12/11-12/17|	-|	Final (Thur. 12/15)|
 
 **Extra Homework:**
 
-[TODO]
+
+|Week|Date|Distribute|Due|
+|:---:|:---:|:---:|:---:|
+|Week-0.5|	08/24-08/27|	-|	-|
+|Week-1|	08/28-09/03|	-|	-|
+|Week-2|	09/04-09/10|	EHW_1 (Mon. 09/05)|	-|
+|Week-3|	09/11-09/17|	EHW_2 (Mon. 09/12)|	EHW_1 (Sun. 09/11)|
+|Week-4|	09/18-09/24|	EHW_3 (Mon. 09/19)|	EHW_2 (Sun. 09/18)|
+|Week-5|	09/25-10/01|	-|	-|
+|Week-6|	10/02-10/08|	-|	EHW_3 (Sun. 10/02)|
+|Week-7|	10/09-10/15|	-|	-|
+|Week-8|	10/16-10/22|	EHW_4 (Mon. 10/17)|	-|
+|Week-9|	10/23-10/29|	EHW_5 (Mon. 10/24)|	EHW_4 (Sun. 10/23)|
+|Week-10|	10/30-11/05|	-|	-|
+|Week-11|	11/06-11/12|	EHW_6 (Mon. 11/07)|	EHW_5 (Sun. 11/06)|
+|Week-12|	11/13-11/19|	EHW_7 (Sat. 11/19)|	EHW_6 (Fri. 11/18)|
+|Week-13|	11/20-11/26|	-|	-|
+|Week-14|	11/27-12/03|	-|	-|
+|Week-15|	12/04-12/10|	-|	EHW_7 (Sun. 12/04)|
+|Week-16|	12/11-12/17|	-|	-|
 
 **Note on the Honour Code:**
 - All exams and homework assignments are on the Vanderbilt Honour System. You are permitted and encouraged to work in groups to work out the answers to the suggested problems; this is not a violation of the Honour Code. But, graded homework problems and exams should be answered without any outside help. A full description of the Honour Code is provided in the Vanderbilt University Student Handbook.
