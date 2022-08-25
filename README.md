@@ -80,7 +80,23 @@ _Note: You will have the opportunity to drop one homework/short assignment. To r
 - Sep. 22nd (Dr. Spencer-Smith)
 - Nov. 3rd (TBD)
 
-## Outline of the Course Materials: 
+## Outline of the Course Materials:
+
+|Week|Section|Content|
+|:---:|:---:|:---:|
+|Week-0.5|R|Introduction|
+|Week-1-2|R|		Tidyverse|
+|Week-2|R|		Assertr|
+|Week-3|R|		Tidy Data|
+|Week-3-4|R|		Relational Data|
+|Week-5	|R|	Vectors and Functions|
+|Week-6|R|		Stringr|
+|Week-7|	Python|	Python Basics|
+|Week-8-9|		Python|	Variables and Data Structures|
+|Week-9-10|		Python|		Control Flow and Functions|
+|Week-11|Python|			Numpy|
+|Week-12	|Python|		Numpy|
+|Week-14	|Python|		Class|
 
 ## Time schedule: 
 _Note: no late submissions will be accepted. No make-up homework will be given. There will be no homework during the week of exams. Homework solutions will be briefly discussed in class if major problems occurred or if requested by students._
