@@ -14,28 +14,41 @@ simulation, and how to apply modern resampling techniques in simulations in both
 - Slack link: [Data Science MS](https://vandydatasciencems.slack.com/archives/C02AGV4B1QW)
 
 ## Teaching Team:
+
 _**Instructor:**_ 
+
 **Prof. Zhongyue (John) Yang**
+
 e-mail: zhongyue.yang@vanderbilt.edu
 
 _**Course TAs:**_ 
+
 **Yiwen (Alvin) Chen**
+
 e-mail: yiwen.chen@Vanderbilt.Edu
 **Yue Guo**
+
 e-mail: yue.guo@Vanderbilt.Edu
 
 _**Extra Homework TA:**_ 
+
 **Minghao (Harry) Zhao**
+
 e-mail: minghao.zhao@Vanderbilt.Edu
 **Xueyuan (Rio) Jia** 
+
 e-mail: xueyuan.jia@vanderbilt.edu
 
 _**Project TA:**_ 
+
 **Dara Sliwinski**
+
 e-mail: dara.e.sliwinski@Vanderbilt.Edu
 
 ## Class (location: Sony Building 2001-A):
+
 **Lecture:** Tuesday and Thursday: 03:15 – 04:30 pm
+
 **Office Hour:** Tuesday and Thursday: 04:30 – 05:30 pm 
 
 ## Course Materials:
