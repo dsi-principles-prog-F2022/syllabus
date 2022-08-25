@@ -95,7 +95,11 @@ _Note: no late submissions will be accepted. No make-up homework will be given. 
 
 **Course Homework & Midterm & Final:**
 
+[Frame_1]
+
 **Extra Homework:**
+
+[Frame_2]
 
 **Note on the Honour Code:**
 - All exams and homework assignments are on the Vanderbilt Honour System. You are permitted and encouraged to work in groups to work out the answers to the suggested problems; this is not a violation of the Honour Code. But, graded homework problems and exams should be answered without any outside help. A full description of the Honour Code is provided in the Vanderbilt University Student Handbook.
