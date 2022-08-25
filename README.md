@@ -26,6 +26,7 @@ _**Course TAs:**_
 **Yiwen (Alvin) Chen**
 
 e-mail: yiwen.chen@Vanderbilt.Edu
+
 **Yue Guo**
 
 e-mail: yue.guo@Vanderbilt.Edu
@@ -35,6 +36,7 @@ _**Extra Homework TA:**_
 **Minghao (Harry) Zhao**
 
 e-mail: minghao.zhao@Vanderbilt.Edu
+
 **Xueyuan (Rio) Jia** 
 
 e-mail: xueyuan.jia@vanderbilt.edu
