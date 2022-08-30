@@ -105,7 +105,7 @@ _Note: no late submissions will be accepted. No make-up homework will be given. 
 
 |Week|Date|Distribute|Due|
 |:---:|:---:|:---:|:---:|
-|Week-0.5|08/24-08/27|HW_0 (Thur. 08/25)|HW_0 (Mon. 08/29)|
+|Week-0.5|08/24-08/27|HW_0 (Thur. 08/25)|HW_0 (Mon. 08/28)|
 |Week-1|    08/28-09/03|HW_1 (Thur. 09/01)|-|
 |Week-2|	09/04-09/10|	HW_2 (Thur. 09/08)|	HW_1 (Wed. 09/07)|
 |Week-3|	09/11-09/17|	HW_3 (Thur. 09/15)|	HW_2 (Wed. 09/14)|
