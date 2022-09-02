@@ -154,3 +154,5 @@ _Note: no late submissions will be accepted. No make-up homework will be given. 
 |Week|Date|Tuesday|Thursday|
 |:---:|:---:|:---:|:---:|
 |Week-1|	08/28-09/03|[nb_Tidyverse_01](https://www.dropbox.com/sh/h9o84apovx54pe7/AAB-4ZYt59mKJ-UvPRiZeMfja?dl=0)|[nb_Tidyverse_02](https://www.dropbox.com/sh/s9nq8gdr38slilc/AAAqt_IIwNiIYxPaBcugEelma?dl=0)|
+
+_** PS: `nb` equals to notebook **_
