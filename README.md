@@ -149,3 +149,8 @@ _Note: no late submissions will be accepted. No make-up homework will be given. 
 **Note on the Honour Code:**
 - All exams and homework assignments are on the Vanderbilt Honour System. You are permitted and encouraged to work in groups to work out the answers to the suggested problems; this is not a violation of the Honour Code. But, graded homework problems and exams should be answered without any outside help. A full description of the Honour Code is provided in the Vanderbilt University Student Handbook.
 
+## Course Resources
+
+|Week|Date|Tuesday|Thursday|
+|:---:|:---:|:---:|:---:|
+|Week-1|	08/28-09/03|[nb_Tidyverse_01](https://www.dropbox.com/sh/h9o84apovx54pe7/AAB-4ZYt59mKJ-UvPRiZeMfja?dl=0)|[nb_Tidyverse_02](https://www.dropbox.com/sh/s9nq8gdr38slilc/AAAqt_IIwNiIYxPaBcugEelma?dl=0)|
