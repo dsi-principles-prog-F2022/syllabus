@@ -151,12 +151,14 @@ _Note: no late submissions will be accepted. No make-up homework will be given. 
 
 ## Course Resources
 
-|Week|Date|Tuesday's in-class materials|Thursday's in-class materials|
-|:---:|:---:|:---:|:---:|
-|Week-1|	08/28-09/03|[**CourseSlides0829**](); [**rmd01_Tidyverse**](https://www.dropbox.com/sh/h9o84apovx54pe7/AAB-4ZYt59mKJ-UvPRiZeMfja?dl=0) and it's [**teacher's version**]()|[**CourseSlides0901**](); [**rmd02_Tidyverse**](https://www.dropbox.com/sh/s9nq8gdr38slilc/AAAqt_IIwNiIYxPaBcugEelma?dl=0)and it's [**teacher's version**]()|
+|Week|Date|Tuesday|Thursday|Teaching Version|
+|:---:|:---:|:---:|:---:|:---:|
+|Week-1|	08/28-09/03|Course slides: [**sl01_Tidyverse**](https://www.dropbox.com/sh/bktdhhk9wij9yds/AAAsVbjUE1pQ3E4b3G17mCHMa?dl=0&preview=Tuesday.pptx)  Course notebook: [**rmd01_Tidyverse**](https://www.dropbox.com/sh/h9o84apovx54pe7/AAB-4ZYt59mKJ-UvPRiZeMfja?dl=0)|Course slides: [**sl02_Tidyverse**](https://www.dropbox.com/sh/bktdhhk9wij9yds/AAAsVbjUE1pQ3E4b3G17mCHMa?dl=0&preview=Thursday.pptx) Course notebook: [**rmd02_Tidyverse**](https://www.dropbox.com/sh/s9nq8gdr38slilc/AAAqt_IIwNiIYxPaBcugEelma?dl=0)|Course notebook - teaching version: [**rmd02b_Week01**](https://www.dropbox.com/sh/bktdhhk9wij9yds/AAAsVbjUE1pQ3E4b3G17mCHMa?dl=0&preview=Week-1-teaching_version.Rmd)|
 
-_**PS:**_
-- `rmd` = R markdown notebook
+_**PS:**_ 
+- **sl** = Course slides, `.pptx` file.
+- **rmd** = R markdown notebook, `.Rmd` file.
+
 
 
 
