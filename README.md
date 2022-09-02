@@ -151,8 +151,12 @@ _Note: no late submissions will be accepted. No make-up homework will be given. 
 
 ## Course Resources
 
-|Week|Date|Tuesday|Thursday|
+|Week|Date|Tuesday's in-class materials|Thursday's in-class materials|
 |:---:|:---:|:---:|:---:|
-|Week-1|	08/28-09/03|[nb_Tidyverse_01](https://www.dropbox.com/sh/h9o84apovx54pe7/AAB-4ZYt59mKJ-UvPRiZeMfja?dl=0)|[nb_Tidyverse_02](https://www.dropbox.com/sh/s9nq8gdr38slilc/AAAqt_IIwNiIYxPaBcugEelma?dl=0)|
+|Week-1|	08/28-09/03|[rmd01_Tidyverse](https://www.dropbox.com/sh/h9o84apovx54pe7/AAB-4ZYt59mKJ-UvPRiZeMfja?dl=0) and it's [teacher's version]()|[rmd02_Tidyverse](https://www.dropbox.com/sh/s9nq8gdr38slilc/AAAqt_IIwNiIYxPaBcugEelma?dl=0)and it's [teacher's version]()|
 
-_**PS:** `nb` equals to notebook_
+_**PS:**_
+- `rmd` = R markdown notebook
+
+
+
