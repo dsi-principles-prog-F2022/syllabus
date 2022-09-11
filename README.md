@@ -153,12 +153,14 @@ _Note: no late submissions will be accepted. No make-up homework will be given. 
 
 |Week|Date|Tuesday|Thursday|Teaching Version|
 |:---:|:---:|:---:|:---:|:---:|
-｜Week-0.5|08/24-08/27|Course slides: [**sl01_About_the_Course**](https://www.dropbox.com/sh/h5umyw4zdpkmdry/AAAkEPnueY5Q7PPGblHJ5yABa/Week-0.5?dl=0&preview=Lecture_1_1_Thurs.pptx&subfolder_nav_tracking=1)||
-|Week-1|	08/28-09/03|Course slides: [**sl01_Tidyverse**](https://www.dropbox.com/sh/bktdhhk9wij9yds/AAAsVbjUE1pQ3E4b3G17mCHMa?dl=0&preview=Tuesday.pptx)  Course notebook: [**rmd01_Tidyverse**](https://www.dropbox.com/sh/h9o84apovx54pe7/AAB-4ZYt59mKJ-UvPRiZeMfja?dl=0)|Course slides: [**sl02_Tidyverse**](https://www.dropbox.com/sh/bktdhhk9wij9yds/AAAsVbjUE1pQ3E4b3G17mCHMa?dl=0&preview=Thursday.pptx) Course notebook: [**rmd02_Tidyverse**](https://www.dropbox.com/sh/s9nq8gdr38slilc/AAAqt_IIwNiIYxPaBcugEelma?dl=0)|Course notebook - teaching version: [**rmd02b_Week01**](https://www.dropbox.com/sh/bktdhhk9wij9yds/AAAsVbjUE1pQ3E4b3G17mCHMa?dl=0&preview=Week-1-teaching_version.Rmd)|
+｜Week-0.5|08/24-08/27||Course slides: [**sl_L01_About_the_Course**](https://www.dropbox.com/sh/h5umyw4zdpkmdry/AAAkEPnueY5Q7PPGblHJ5yABa/Week-0.5?dl=0&preview=Lecture_1_1_Thurs.pptx&subfolder_nav_tracking=1)||
+|Week-1|	08/28-09/03|Course slides: [**sl_L02_Tidyverse**](https://www.dropbox.com/sh/bktdhhk9wij9yds/AAAsVbjUE1pQ3E4b3G17mCHMa?dl=0&preview=Tuesday.pptx), Course notebook: [**rmd_L02_Tidyverse**](https://www.dropbox.com/sh/h9o84apovx54pe7/AAB-4ZYt59mKJ-UvPRiZeMfja?dl=0)|Course slides: [**sl_L03_Tidyverse**](https://www.dropbox.com/sh/bktdhhk9wij9yds/AAAsVbjUE1pQ3E4b3G17mCHMa?dl=0&preview=Thursday.pptx), Course notebook: [**rmd_L03_Tidyverse**](https://www.dropbox.com/sh/s9nq8gdr38slilc/AAAqt_IIwNiIYxPaBcugEelma?dl=0)|Course notebook - teaching version: [**rmd_Week01**](https://www.dropbox.com/sh/bktdhhk9wij9yds/AAAsVbjUE1pQ3E4b3G17mCHMa?dl=0&preview=Week-1-teaching_version.Rmd)|
+|Week-2|09/04-09/10|Course slides: [**sl_L04_Tidyverse**](https://www.dropbox.com/sh/h5umyw4zdpkmdry/AACfOdGot8Hbc5mlqNadmNmba/Week-2?dl=0&preview=Lecture_2_1_Tues.pptx&subfolder_nav_tracking=1), Course notebook: [**rmd_L04_Tidyverse**](https://www.dropbox.com/sh/vxxoonz2kekrzlr/AAB1igUMSoweVddM4VxYyVWua?dl=0)|Course slides: [**sl_L05_Data_Validation**](https://www.dropbox.com/sh/h5umyw4zdpkmdry/AACfOdGot8Hbc5mlqNadmNmba/Week-2?dl=0&preview=Lecture_2_2_Thur.pptx&subfolder_nav_tracking=1), Course notebook: [**rmd_L05_Data_Validation**](https://www.dropbox.com/sh/i9dzt79pa0evi55/AACjbGaKEF3449V5eM8IWnika?dl=0)|Course notebook - teaching version: [**rmd_Week02**](https://www.dropbox.com/sh/h5umyw4zdpkmdry/AACfOdGot8Hbc5mlqNadmNmba/Week-2?dl=0&preview=3_transform_teaching_version.Rmd&subfolder_nav_tracking=1)|
 
 _**PS:**_ 
-- **sl** = Course slides, `.pptx` file.
+- **sl** = Course slides of lecture, `.pptx` file.
 - **rmd** = R markdown notebook, `.Rmd` file.
+- **L01, L02, L03** = Lecture01, Lecture02, Lecture03
 
 
 
