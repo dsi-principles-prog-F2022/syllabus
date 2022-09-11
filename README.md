@@ -153,6 +153,7 @@ _Note: no late submissions will be accepted. No make-up homework will be given. 
 
 |Week|Date|Tuesday|Thursday|Teaching Version|
 |:---:|:---:|:---:|:---:|:---:|
+｜Week-0.5|08/24-08/27|Course slides: [**sl01_About_the_Course**](https://www.dropbox.com/sh/h5umyw4zdpkmdry/AAAkEPnueY5Q7PPGblHJ5yABa/Week-0.5?dl=0&preview=Lecture_1_1_Thurs.pptx&subfolder_nav_tracking=1)||
 |Week-1|	08/28-09/03|Course slides: [**sl01_Tidyverse**](https://www.dropbox.com/sh/bktdhhk9wij9yds/AAAsVbjUE1pQ3E4b3G17mCHMa?dl=0&preview=Tuesday.pptx)  Course notebook: [**rmd01_Tidyverse**](https://www.dropbox.com/sh/h9o84apovx54pe7/AAB-4ZYt59mKJ-UvPRiZeMfja?dl=0)|Course slides: [**sl02_Tidyverse**](https://www.dropbox.com/sh/bktdhhk9wij9yds/AAAsVbjUE1pQ3E4b3G17mCHMa?dl=0&preview=Thursday.pptx) Course notebook: [**rmd02_Tidyverse**](https://www.dropbox.com/sh/s9nq8gdr38slilc/AAAqt_IIwNiIYxPaBcugEelma?dl=0)|Course notebook - teaching version: [**rmd02b_Week01**](https://www.dropbox.com/sh/bktdhhk9wij9yds/AAAsVbjUE1pQ3E4b3G17mCHMa?dl=0&preview=Week-1-teaching_version.Rmd)|
 
 _**PS:**_ 
