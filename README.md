@@ -111,8 +111,8 @@ _Note: no late submissions will be accepted. No make-up homework will be given. 
 |Week-3|	09/11-09/17|	HW_3 (Thur. 09/15)|	HW_2 (Wed. 09/14)|
 |Week-4|	09/18-09/24|	HW_4 (Thur. 09/22)|	HW_3 (Wed. 09/21)|
 |Week-5|	09/25-10/01|	HW_5 (Thur. 09/29)|	HW_4 (Wed. 09/28)|
-|Week-6|	10/02-10/08|	HW_6 (Thur. 10/06) - Midterm (Thur. 10/06)|	HW_5 (Wed. 10/05)|
-|Week-7|	10/09-10/15	|-|	HW_6 (Wed. 10/12) - Midterm_Part_1 (Wed. 10/12)|
+|Week-6|	10/02-10/08|	HW_6 _(optional)_ (Thur. 10/06) - Midterm (Thur. 10/06)|	HW_5 (Wed. 10/05)|
+|Week-7|	10/09-10/15	|-|Midterm_Part_1 (Wed. 10/12)|
 |Week-8|	10/16-10/22|	-|	Midterm_Part_2 (Wed. 10/19)|
 |Week-9|	10/23-10/29|	HW_7 (Thur. 10/27)|	-|
 |Week-10|	10/30-11/05|	HW_8 (Thur. 11/03)|	-|
