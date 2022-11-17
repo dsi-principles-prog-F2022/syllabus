@@ -116,10 +116,10 @@ _Note: no late submissions will be accepted. No make-up homework will be given. 
 |Week-8|	10/16-10/22|	HW_7 (Thur. 10/20)|	Midterm_Part_2 (Wed. 10/19)|
 |Week-9|	10/23-10/29|	HW_8 (Thur. 10/27)|	HW_7 (Wed. 10/26)|
 |Week-10|	10/30-11/05|	HW_9 (Thur. 11/03)|	HW_8 (Wed. 11/02)|
-|Week-11|	11/06-11/12|	HW_10 (Thur. 11/10)|	HW_9 (Fri. 11/11) Extended|
-|Week-12|	11/13-11/19|	HW_11 (Thur. 11/17)|	HW_10 (Fri. 11/18) Extended|
+|Week-11|	11/06-11/12|	- |	HW_9 (Fri. 11/11) Extended|
+|Week-12|	11/13-11/19|	HW_10 (Thur. 11/17)| - |
 |Week-13|	11/20-11/26|	- |	- |
-|Week-14|	11/27-12/03|	Final (Fri. 12/02)|	HW_11 (Wed. 11/30)|
+|Week-14|	11/27-12/03|	Final (Fri. 12/02)|	HW_10 (Wed. 11/30)|
 |Week-15|	12/04-12/10|	-|	- |
 |Week-16|	12/11-12/17|	-|	Final (Thur. 12/15)|
 
